@@ -26,3 +26,5 @@ Prices vary significantly by borough, with Manhattan having the highest median p
 Some listings show extreme prices, which may indicate anomalies.
 Availability varies, with some properties listed year-round and others for short periods.
 
+
+![Image](https://github.com/user-attachments/assets/f02f8ced-aee9-4dfb-815e-b39393672e4d)
